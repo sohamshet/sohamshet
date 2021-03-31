@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sohamshet
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @sohamshet;
+- 👀 I’m interested in Software Developement;
+- 🌱 I’m currently learning in 9th grade;
+- 💞️ I’m looking to collaborate on some software development project in my vacations;
+- 📫 How to reach me mail me www.sohamshet777@gmail.com;
 
 <!---
 sohamshet/sohamshet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
