@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sohamshet;
+- 👋 Hi, I’m Soham Shet;
 - 👀 I’m interested in Software Developement;
-- 🌱 I’m currently learning in 10th grade;
+- 🌱 I’m currently studying in 10th grade;
 - 💞️ I’m looking to collaborate on some software development project in my vacations;
 - 📫 How to reach me mail me www.sohamshet777@gmail.com;
 
